@@ -5,6 +5,7 @@ import kotlinx.android.parcel.Parcelize
 
 class Pojo {
 
+    //tetst
     @Parcelize
     class Kategori (
         val name : String,
